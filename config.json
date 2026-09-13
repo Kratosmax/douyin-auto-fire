@@ -28,6 +28,6 @@
   },
   "continue_on_error": true,
   "prevent_duplicates": false,
-  "target_open_retries": 3,
+  "target_open_retries": 5,
   "target_open_timeout_seconds": 15
 }
